@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Exercicio5 {
+public class Test5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int matriz[][] = new int[3][3];
